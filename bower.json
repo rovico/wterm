@@ -1,0 +1,27 @@
+{
+  "name": "wterm",
+  "homepage": "https://github.com/rovico/wterm",
+  "authors": [
+    "https://github.com/gvenkat"
+  ],
+  "description": "WTerm is a web-based terminal emulator plugin for JQuery.",
+  "main": "wterm.jquery.js",
+  "keywords": [
+    "terminal",
+    "emulator",
+    "jQuery",
+    "web-console",
+    "web-cli",
+    "cli",
+    "console",
+    "web-terminal"
+  ],
+  "license": "unlicensed",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
